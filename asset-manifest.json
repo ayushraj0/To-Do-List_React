@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/To-Do-List_React/static/css/main.bab113fa.css",
+    "main.js": "/To-Do-List_React/static/js/main.4c61b921.js",
+    "static/media/todo-image.png": "/To-Do-List_React/static/media/todo-image.ffb878c8635bddbca0a3.png",
+    "static/media/todo.webp": "/To-Do-List_React/static/media/todo.e0e6f75dc41d3a5be630.webp",
+    "index.html": "/To-Do-List_React/index.html",
+    "main.bab113fa.css.map": "/To-Do-List_React/static/css/main.bab113fa.css.map",
+    "main.4c61b921.js.map": "/To-Do-List_React/static/js/main.4c61b921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab113fa.css",
+    "static/js/main.4c61b921.js"
+  ]
+}
