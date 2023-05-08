@@ -1,4 +1,4 @@
-<center> View Demo <a href="https://react-todo-ap.netlify.app/" target="_blank">ToDo React App</a> </center>
+<center> View Demo <a href="https://ayushraj0.github.io/To-Do-List_React/" target="_blank">ToDo React App</a> </center>
 
 ## 🦉 Main information
 
