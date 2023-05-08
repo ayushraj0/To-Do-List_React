@@ -1,4 +1,4 @@
-<center> View Demo <a href="https://ayushraj0.github.io/To-Do-List_React/" target="_blank">ToDo React App</a> </center>
+<center> View Demo <a href="https://ayushraj0.github.io/To-Do-List_React/" target="_blank">ToDo List React</a> </center>
 
 ## 🦉 Main information
 
@@ -9,7 +9,7 @@ This application integrate React useState and useEffect Hooks. React Hooks allow
 
 ToDo app is an excellent app to practice hooks, state, style and data manipulation.
 
-Here you can find the sourse code with all the necessary and useful comments.
+Here you can find the source code with all the necessary and useful comments.
 
 ## Built With
 
